@@ -1,3 +1,0 @@
-/Users/richard/GitHub/GoDaddyApi/GoDaddyApi.Console/publish/GoDaddy.pdb
-/Users/richard/GitHub/GoDaddyApi/GoDaddyApi.Console/publish/GoDaddyApi.Model.pdb
-/Users/richard/GitHub/GoDaddyApi/GoDaddyApi.Console/publish/GoDaddy
